@@ -6,5 +6,4 @@ int main()
 printf("pid:%d!\n",getpid());
   printf("tid:%d!\n",gettid());
   printf("uid:%d!\n",getuid());
-  printf("gid:%d!\n",getgid());
 }
