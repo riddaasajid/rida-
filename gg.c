@@ -5,4 +5,5 @@ int main()
   {
 printf("pid:%d!\n",getpid());
   printf("uid:%d!\n",getuid());
+  printf("uid:%d!\n",getuid());printf("uid:%d!\n",getuid());printf("uid:%d!\n",getuid());
 }
